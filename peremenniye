@@ -1,5 +1,5 @@
-completed_homework_count= '12'
-homework_time_count= '1.5'
+completed_homework_count= 12
+homework_time_count= 1.5
 course_name='Python'
-average_task_completion_time='0.125'
+average_task_completion_time= homework_time_count / completed_homework_count
 print(course_name,",",'всего задач',':',completed_homework_count,",",'затрачено часов',':',homework_time_count,",",'среднее время выполнения', average_task_completion_time)
